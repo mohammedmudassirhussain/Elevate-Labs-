@@ -1,0 +1,9 @@
+Netflix Data Cleaning Report
+========================================
+Original shape: (8807, 12)
+Final shape: (8807, 12)
+Total missing before: 4307
+Total missing after: 101
+Duplicates removed: 0
+Release year range: 1925 → 2021
+Rating mode used to fill nulls: TV-MA
